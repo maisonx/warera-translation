@@ -1633,71 +1633,71 @@ msgstr "تُخصم ضريبة المدير {managerTax}% عند استلام أ�
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3828
 msgid "{name} accuses {partnerName} of eating a labeled lunch. The note on the fridge gets more threatening every day."
-msgstr "{name} يتهم {partnerName} بتناول غداءٍ كُتب عليه اسم شخص آخر. والملاحظة على الثلاجة تزداد تهديدًا يومًا بعد يوم."
+msgstr "يتهم {name} زميله {partnerName} بتناول غداءٍ كُتب عليه اسم شخص آخر. والملاحظة على الثلاجة تزداد تهديدًا يومًا بعد يوم."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:858
 msgid "{name} and {partnerName} are inseparable now."
-msgstr "{name} و{partnerName} لا يفترقان الآن."
+msgstr "أصبح {name} و{partnerName} لا يفترقان الآن."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1922
 msgid "{name} and {partnerName} are officially together, and it is the real thing."
-msgstr "{name} و{partnerName} معًا رسميًا، وهذا أمر حقيقي."
+msgstr "يرتبط {name} و{partnerName} معًا رسميًا، وهذا أمر حقيقي."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1920
 msgid "{name} and {partnerName} are officially together. The whole workshop pretends to be surprised."
-msgstr "{name} و{partnerName} معًا رسميًا. الورشة كلها تتظاهر بالمفاجأة."
+msgstr "اجتمع {name} و{partnerName} معًا رسميًا، والورشة كلها تتظاهر بالمفاجأة."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:856
 msgid "{name} and {partnerName} are old friends now."
-msgstr "{name} و{partnerName} صديقان قديمان الآن."
+msgstr "أصبح {name} و{partnerName} صديقين قديمين الآن."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1857
 msgid "{name} and {partnerName} blame each other for the ban. It is personal now."
-msgstr "{name} و{partnerName} يلوم كل منهما الآخر على الحظر. أصبح الأمر شخصيًا الآن."
+msgstr "يلوم كل من {name} و{partnerName} الآخر على الحظر، وأصبح الأمر شخصيًا."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:874
 msgid "{name} and {partnerName} came to blows over who moved whose tools. Everyone is waiting to see what you do."
-msgstr "{name} و{partnerName} تشابكا بالأيدي حول من حرّك أدوات من. الجميع ينتظر ليرى ماذا ستفعل."
+msgstr "تشابك {name} و{partnerName} بالأيدي حول من حرّك أدوات الآخر، والجميع ينتظر ليرى ماذا ستفعل."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3743
 msgid "{name} and {partnerName} each think the other installed it. It is war now."
-msgstr "{name} و{partnerName} يعتقد كل منهما أن الآخر ركّبها. إنها حرب الآن."
+msgstr "يعتقد كل من {name} و{partnerName} أن الآخر قد ركّبها، وتحولت الامور إلى حرب."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3741
 msgid "{name} and {partnerName} find out. Neither is speaking to you."
-msgstr "{name} و{partnerName} يكتشفان الأمر. لا أحد منهما يكلمك."
+msgstr "اكتشف كل من {name} و{partnerName} الأمر، ولا أحد منهما يكلمك."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2000
 msgid "{name} and {partnerName} had their first fight. It was about the inventory. The whole workshop is taking sides."
-msgstr "{name} و{partnerName} خاضا أول شجار لهما. كان حول المخزون. الورشة كلها تنحاز لطرف."
+msgstr "خاض {name} و{partnerName} أول شجار بينهما حول المخزون، والورشة كلها تنحاز للأطراف."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1907
 msgid "{name} and {partnerName} have been checking the inventory together a lot. The inventory has never been more checked."
-msgstr "{name} و{partnerName} يفحصان المخزون معًا كثيرًا. لم يُفحص المخزون من قبل بهذا القدر."
+msgstr "يقوم {name} و{partnerName} بفحص المخزون معًا كثيرًا لدرجة أنه لم يُفحص من قبل بهذا القدر."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3760
 msgid "{name} and {partnerName} showed up with the exact same haircut. Neither will speak first."
-msgstr "ظهر {name} و{partnerName} بنفس قصة الشعر تمامًا. لن يتكلم أي منهما أولًا."
+msgstr "ظهر {name} و{partnerName} بنفس قصة الشعر تمامًا، ولن يتكلم أي منهما أولًا."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1883
 msgid "{name} has added a moat. {partnerName} is not welcome."
-msgstr "{name} أضاف خندقًا مائيًا. {partnerName} غير مرحب به."
+msgstr "أضاف {name} خندقًا مائيًا حيث لا يُرحب بـ {partnerName}."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1838
 msgid "{name} is vindicated. {partnerName} is not."
-msgstr "{name} تمّت تبرئته. {partnerName} لا."
+msgstr "تمت تبرئة {name} بينما لم يُبرأ {partnerName}."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1832
 msgid "{name} says soup is a drink. {partnerName} says it is food. They have not spoken in three days."
-msgstr "{name} يقول إن الحساء مشروب. {partnerName} يقول إنه طعام. لم يتكلما منذ ثلاثة أيام."
+msgstr "يعتبر {name} الحساء مشروبًا بينما يقول {partnerName} إنه طعام، ولم يتكلما منذ ثلاثة أيام."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3719
 msgid "{name} wants the thermostat at 18 degrees, {partnerName} at 26. Half the workshop wears coats, the other half shorts."
-msgstr "{name} يريد المكيف على 18 درجة، و{partnerName} على 26. نصف الورشة يرتدي المعاطف، والنصف الآخر الشورتات."
+msgstr "يريد {name} ضبط المكيف على 18 درجة و{partnerName} على 26، ونصف الورشة يرتدي المعاطف والنصف الآخر الشورتات."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3775
 msgid "{name} wears the hat proudly. {partnerName} wanted the hat."
-msgstr "{name} يرتدي القبعة بفخر. {partnerName} كان يريد القبعة."
+msgstr "يرتدي {name} القبعة بفخر بينما كان {partnerName} يريدها لنفسه."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:606
 msgid "{named} and {counted}"
@@ -1705,7 +1705,7 @@ msgstr "{named} و{counted}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventInbox.tsx:123
 msgid "{names}: decided while you were away"
-msgstr "{names}: تم الاقرار بها أثناء غيابك"
+msgstr "تمت اتخاذ القرار بواسطة {names} أثناء غيابك"
 
 #: src/components/_user/user/Level.tsx:137
 msgid "{nextLevelSkillPoints} Skill Points"
