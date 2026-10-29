@@ -394,7 +394,7 @@ msgstr "{count, plural, one {<0><1/> Artikel lesen</0>} other {<2><3/> Artikel l
 
 #: src/components/_user/mission/mission.frontConfig.tsx:93
 msgid "{count, plural, one {<0>Self work <1/> time in your companies</0>} other {<2>Self work <3/> times in your companies</2>}}"
-msgstr "{count, plural, one {<0><1/>-mal selbst in deinen Firmen arbeiten</0>} oder {<2><3/>-mal selbst in deinen Firmen arbeiten</2>}}"
+msgstr "{count, plural, one {<0><1/>-mal selbst in deinen Firmen arbeiten</0>} other {<2><3/>-mal selbst in deinen Firmen arbeiten</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:563
 msgid "{count, plural, one {<0>Send <1/> message</0>} other {<2>Send <3/> messages</2>}}"
@@ -402,7 +402,7 @@ msgstr "{count, plural, one {<0><1/> Nachricht senden</0>} other {<2><3/> Nachri
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr "{count, plural, one {<0>Dich in der von dir geleiteten Firma <1/>-mal um einen Mitarbeiter kümmern</0>} oder {<2>Dich in der von dir geleiteten Firma <3/>-mal um einen Mitarbeiter kümmern</2>}}"
+msgstr "{count, plural, one {<0>Dich in der von dir geleiteten Firma <1/>-mal um einen Mitarbeiter kümmern</0>} other {<2>Dich in der von dir geleiteten Firma <3/>-mal um einen Mitarbeiter kümmern</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
@@ -422,7 +422,7 @@ msgstr "{count, plural, one {<0>Deine Fertigkeiten <1/>-mal verbessern</0>} othe
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
-msgstr "{count, plural, one {<0><1/>-mal in deinen Firmen arbeiten</0>} oder {<2><3/>-mal in deinen Firmen arbeiten</2>}}"
+msgstr "{count, plural, one {<0><1/>-mal in deinen Firmen arbeiten</0>} other {<2><3/>-mal in deinen Firmen arbeiten</2>}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:171
 msgid "{days, plural, one {# day of their wage} other {# days of their wage}}"
