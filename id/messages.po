@@ -2766,11 +2766,11 @@ msgstr "<0>{v}</0> Production ÷ {OUTPUT_DIVISOR} = <1>{0} poin per jam</1>, seb
 
 #: src/components/_economy/employee/employeeStats.tsx:423
 msgid "<0>{v}</0> Responsibility = <1>{shieldPct}% less</1> <2>Happiness</2> loss (max shield)."
-msgstr "<0>{v}</0> Responsibility = <1>{shieldPct}% lebih sedikit</1> kehilangan <2>Happiness</2> (perlindungan maksimum)."
+msgstr "<0>{v}</0> Tanggung jawab = <1>{shieldPct}% lebih sedikit</1> kehilangan <2>Happiness</2> (perlindungan maksimum)."
 
 #: src/components/_economy/employee/employeeStats.tsx:431
 msgid "<0>{v}</0> Responsibility = <1>{shieldPct}% less</1> <2>Happiness</2> loss."
-msgstr "<0>{v}</0> Responsibility = <1>{shieldPct}% lebih sedikit</1> kehilangan <2>Happiness</2>."
+msgstr "<0>{v}</0> Tanggung jawab = <1>{shieldPct}% lebih sedikit</1> kehilangan <2>Happiness</2>."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:931
 msgid "<0>+1</0> candidate on every company's daily shortlist"
@@ -2880,7 +2880,7 @@ msgstr "<0>Setiap karyawan perusahaan ini menghasilkan <1>{0}</1> lebih banyak.<
 
 #: src/components/_economy/company/CompanyProduce.tsx:90
 msgid "<0>Filled with <1>Production Points</1> when you work, by your employees and by the automated engine.</0><2>Only the company owner can spend it to produce items.</2>"
-msgstr "<0><1>Production Points</1> terkumpul saat kamu bekerja, melalui karyawanmu, dan melalui mesin otomatis.</0><2>Hanya pemilik perusahaan yang dapat menggunakan Production Points untuk memproduksi barang.</2>"
+msgstr "<0><1>Poin Produksi</1> terkumpul saat kamu bekerja, melalui karyawanmu, dan melalui mesin otomatis.</0><2>Hanya pemilik perusahaan yang dapat menggunakan poin produksi untuk memproduksi barang.</2>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:824
 msgid "<0>Half</0> Happiness losses"
@@ -2912,7 +2912,7 @@ msgstr "<0>Production</0>: barang yang mereka hasilkan."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:147
 msgid "<0>Responsibility</0>: protects their <1>Happiness</1>."
-msgstr "<0>Responsibility</0>: membantu menjaga <1>Happiness</1> mereka."
+msgstr "<0>Tanggung jawab</0>: membantu menjaga <1>Happiness</1> mereka."
 
 #. placeholder {0}: gameConfig?.unrest.contributionCost
 #. placeholder {1}: gameConfig?.unrest.contributionCost
@@ -13719,7 +13719,7 @@ msgstr "Perlawanan difokuskan oleh <0/>"
 
 #: src/components/_military/battle/BattleName.tsx:155
 msgid "Resistance for {regionName} {score}"
-msgstr "Perlawanan untuk {regionName} {score}"
+msgstr "Bertahan untuk {regionName} {score}"
 
 #: src/components/_political/region/RegionTooltip.tsx:119
 msgid "Resource"
