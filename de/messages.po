@@ -18231,7 +18231,7 @@ msgstr "Dein Arbeitgeber hat dein Gehalt gekürzt auf"
 #. placeholder {1}: data.newWage
 #: src/components/_user/notification/notification.frontConfig.tsx:654
 msgid "Your employer wants to reduce your wage in <0/> from <1>{0}</1> to <2>{1}</2>. Accept or reject this change."
-msgstr "Dein Arbeitgeber möchte deinen Lohn in <0/> von <1>{0}</1. auf <2>{1}</2> senken. Akzeptiere oder lehne diese Änderung ab."
+msgstr "Dein Arbeitgeber möchte deinen Lohn in <0/> von <1>{0}</1>. auf <2>{1}</2> senken. Akzeptiere oder lehne diese Änderung ab."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1924
 msgid "Your encouragement makes it awkward. It fizzles out."
